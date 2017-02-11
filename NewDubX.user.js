@@ -10,9 +10,12 @@
 
 (function() {
     'use strict';
+
     $(document).ready(function () {
-        $.getScript('https://rawgit.com/coryshaw1/DubX-Script/master/beta.js');
-        $('head').append('<link rel="stylesheet" type="text/css" href="https://rawgit.com/coryshaw1/DubX-Script/master/css/asset.css">');
-        $('head').append('<link rel="stylesheet" type="text/css" href="https://rawgit.com/coryshaw1/DubX-Script/master/css/options/autocomplete.css">');
+        setTimeout(function () {
+            $.getScript('https://rawgit.com/coryshaw1/DubX-Script/master/beta.js');
+            $('head').append('<link rel="stylesheet" type="text/css" href="https://rawgit.com/coryshaw1/DubX-Script/master/css/asset.css">');
+            $('head').append('<link rel="stylesheet" type="text/css" href="https://rawgit.com/coryshaw1/DubX-Script/master/css/options/autocomplete.css">');
+        }, 2000);
     });
 })();
