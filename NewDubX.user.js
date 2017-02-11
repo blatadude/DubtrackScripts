@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         [Dubtrack] Load new DubX
 // @namespace    Chr0nX/Dubtrack/DubX
-// @version      0.1.2
+// @version      0.1.3
 // @description  Loads DubX from the new repo.
 // @author       Chr0nX
 // @match        https://*.dubtrack.fm/*
