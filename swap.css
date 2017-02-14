@@ -1,0 +1,8 @@
+#main-room section.left_section {
+    padding-left: 32rem;
+    padding-right: 0 !important;
+}
+
+#main-room section.right_section {
+    right: auto;
+}
