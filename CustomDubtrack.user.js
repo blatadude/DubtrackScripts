@@ -11,7 +11,7 @@
 (function() {
     'use strict';
 
-    var cssUrl = 'https://frosolf.github.io/frosolfright.css';  // URL or false to disable
+    var cssUrl = 'https://raw.githubusercontent.com/blatadude/DubtrackScripts/master/frosolfrightBlatadudeEdit.css';  // URL or false to disable
     var backgroundUrl = 'https://i.imgur.com/O1UyuHj.jpg';       // URL or false to disable
 
     $(document).ready(function () {
