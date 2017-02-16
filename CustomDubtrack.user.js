@@ -12,7 +12,7 @@
     'use strict';
 
     var cssUrl = 'https://frosolf.github.io/frosolfright.css';  // URL or false to disable
-    var backgroundUrl = 'http://i.imgur.com/NE2KeUK.jpg';       // URL or false to disable
+    var backgroundUrl = 'https://images4.alphacoders.com/669/669542.jpg';       // URL or false to disable
 
     $(document).ready(function () {
         if (cssUrl !== false)
